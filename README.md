@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help with PHP, Django
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/shreya2000/)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am struggling with coming up with things that can be forked through Github.
+- ⚡ Fun fact: I am struggling for coming up with things that can be forked through Github.
