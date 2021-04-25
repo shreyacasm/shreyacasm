@@ -1,6 +1,7 @@
-### Hello World👋
-
 ![](https://komarev.com/ghpvc/?username=shreyacasm&color=red)
+### Hello to the World of Github👋
+## I'm Shreya Suroliya
+
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Front-End part  
