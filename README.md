@@ -1,4 +1,6 @@
 ### Hello World👋
+
+![](https://komarev.com/ghpvc/?username=shreyacasm&color=red)
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Front-End part  
